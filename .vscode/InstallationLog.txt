@@ -1,0 +1,6 @@
+************************************* Invoked: Sun Nov 10 17:03:36 2024
+[0] Arguments: C:\Users\vitor\Downloads\msys2-x86_64-20240727.exe
+[6] Operations sanity check succeeded.
+[8] Warning: Cannot create lock file "C:\Users\vitor\AppData\Local\Temp\msys2-x86_64-202407271234865.lock": O arquivo já está sendo usado por outro processo.
+ (0x00000020)
+[36] UnableToStart : Unable to start installer : Another msys2-x86_64-20240727 instance is already running. Wait until it finishes, close it, or restart your system.
